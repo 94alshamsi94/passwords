@@ -1,4 +1,4 @@
-# Password List Generator
+# Password Lister
 generate password very helpful for brute force 
 
 ## About
