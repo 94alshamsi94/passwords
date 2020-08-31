@@ -25,4 +25,5 @@ Python 3
 
 ### For Donation
 
-paypal.me/Yahyaalshamsi
+[For Support](https://paypal.me/Yahyaalshamsi)
+
